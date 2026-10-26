@@ -22,3 +22,17 @@ resources when needed. Finally,the browser calculates
  webpage on the screen. This entire process happens
   very quickly, allowing us to access websites within
    seconds.
+
+
+
+
+
+
+
+
+
+
+
+
+git config --global user.email "navvkaur326@gmail.com"
+git config --global user.name "navvkaur326-jpg"
